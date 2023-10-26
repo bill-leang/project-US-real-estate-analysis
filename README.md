@@ -59,7 +59,7 @@ In demonstrating our overall data analysis, we each primarily (but not exclusive
 ## Topic Analysis Overview
 
 The United States is home to many biomes which initially suggests that many large areas of the country would experience varying weather patterns and climate conditions.
-By extension, this also suggests that the rise and fall of For-Sale Inventory across the seasons will vary in intensity depending where state-specific markets are loclated in the country.
+By extension, this also suggests that the rise and fall of For-Sale Inventory across the seasons will vary in intensity depending where state-specific markets are located in the country.
 
 
 <p align="center">
